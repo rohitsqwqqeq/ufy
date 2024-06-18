@@ -29,14 +29,14 @@ To get a local copy up and running, follow these simple steps.
 - MongoDB
 
 
-1. Clone the repo
+## 1. Clone the repo
      -git clone https://github.com/yourusername/eNoteBook.git
 
-2. Install NPM packages for backend
+## 2. Install NPM packages for backend
     cd backend
     npm install
 
-3. Install NPM packages for frontend
+## 3. Install NPM packages for frontend
    cd ../frontend
    npm install
 
