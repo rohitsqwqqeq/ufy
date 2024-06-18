@@ -62,14 +62,29 @@ Create, read, update, and delete your notes.
 
 
 # Signup Page 
-![image](https://github.com/rohitsqwqqeq/ufy/assets/146983138/81ffbe7e-e39a-46c2-a838-82f7e3cf10ec)  ![image](https://github.com/rohitsqwqqeq/ufy/assets/146983138/119300c0-f6fc-4a17-b48a-291d3d91641f)
+![image](https://github.com/rohitsqwqqeq/ufy/assets/146983138/81ffbe7e-e39a-46c2-a838-82f7e3cf10ec)  ![image](https://github.com/rohitsqwqqeq/ufy/assets/146983138/7ecab3e6-dc07-490d-9703-9fe2ac543184)
 
- 
+
 
 # Login Page 
+![image](https://github.com/rohitsqwqqeq/ufy/assets/146983138/fde298ef-a441-4b7a-944e-72cc30e4c042) 
+
+# JWT for user authentication and bcrypt for password hashing 
+![image](https://github.com/rohitsqwqqeq/ufy/assets/146983138/6a4572a1-3d64-48cc-b4ad-1622e6cebcdd)
+
+![image](https://github.com/rohitsqwqqeq/ufy/assets/146983138/f500beb5-7ce7-4018-99d6-0518298f9182)
 
 
 # Home Page with Notes 
+![image](https://github.com/rohitsqwqqeq/ufy/assets/146983138/ce6f3a0a-c0c8-4e91-bed6-47747106a4f0)
+
+# Add Notes 
+![image](https://github.com/rohitsqwqqeq/ufy/assets/146983138/3640455a-8b2e-45c1-b99f-dc1f8458eb19)
+
+# Edit Notes
+
+![image](https://github.com/rohitsqwqqeq/ufy/assets/146983138/9bc23e25-fb31-461f-8709-c6773de120c7)
+
 
 # Contact Page 
 
