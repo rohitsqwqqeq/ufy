@@ -30,7 +30,7 @@ To get a local copy up and running, follow these simple steps.
 
 
 1. Clone the repo
-     git clone https://github.com/yourusername/eNoteBook.git
+     -git clone https://github.com/yourusername/eNoteBook.git
 
 2. Install NPM packages for backend
     cd backend
