@@ -62,6 +62,8 @@ Create, read, update, and delete your notes.
 
 
 # Singup Page 
+![image](https://github.com/rohitsqwqqeq/ufy/assets/146983138/81ffbe7e-e39a-46c2-a838-82f7e3cf10ec)
+
 
 # Login Page 
 
