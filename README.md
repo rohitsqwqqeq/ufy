@@ -69,22 +69,38 @@ Create, read, update, and delete your notes.
 - Login Page 
 ![image](https://github.com/rohitsqwqqeq/ufy/assets/146983138/fde298ef-a441-4b7a-944e-72cc30e4c042) 
 
-# JWT for user authentication and bcrypt for password hashing 
+- JWT for user authentication and bcrypt for password hashing 
 ![image](https://github.com/rohitsqwqqeq/ufy/assets/146983138/6a4572a1-3d64-48cc-b4ad-1622e6cebcdd)
 
 ![image](https://github.com/rohitsqwqqeq/ufy/assets/146983138/f500beb5-7ce7-4018-99d6-0518298f9182)
 
 
-# Home Page with Notes 
+- Home Page with Notes 
 ![image](https://github.com/rohitsqwqqeq/ufy/assets/146983138/ce6f3a0a-c0c8-4e91-bed6-47747106a4f0)
 
-# Add Notes 
-![image](https://github.com/rohitsqwqqeq/ufy/assets/146983138/3640455a-8b2e-45c1-b99f-dc1f8458eb19)
+- Add Notes 
+![image](https://github.com/rohitsqwqqeq/ufy/assets/146983138/7242493a-7642-4ba4-96e7-bc49aeeb010e)
 
-# Edit Notes
 
-![image](https://github.com/rohitsqwqqeq/ufy/assets/146983138/9bc23e25-fb31-461f-8709-c6773de120c7)
+- Edit Notes
+![image](https://github.com/rohitsqwqqeq/ufy/assets/146983138/1ef7e221-6520-4f67-89de-2f86cc1f0966) ![image](https://github.com/rohitsqwqqeq/ufy/assets/146983138/b81b95dc-760f-4f6a-a324-7fba8d98be58)
+
+- Delete Notes
+![image](https://github.com/rohitsqwqqeq/ufy/assets/146983138/733a3473-6d13-4e2c-9a5c-8fd0a1fffd5c) ![image](https://github.com/rohitsqwqqeq/ufy/assets/146983138/bec53b7d-3db1-4834-9d7b-2461247ce4ce)
+
+- MongoDB All Notes
+   - User
+  ![image](https://github.com/rohitsqwqqeq/ufy/assets/146983138/96e760ff-1959-4530-8d22-aa459f13728a)
+
+   - Notes
+     ![image](https://github.com/rohitsqwqqeq/ufy/assets/146983138/e7cf44de-22ff-4734-8612-43ba7968eecc)
+
+
+#About Page
+![image](https://github.com/rohitsqwqqeq/ufy/assets/146983138/d2d8b0d9-9998-4ab5-bb2f-32fa8a9d3d0a)   ![image](https://github.com/rohitsqwqqeq/ufy/assets/146983138/a0cda777-9ef3-4101-a03b-0161dc6c2613)
+
 
 
 # Contact Page 
+![image](https://github.com/rohitsqwqqeq/ufy/assets/146983138/c9713b63-9f4b-4efd-8a9d-4ea8e3bd3a89)
 
