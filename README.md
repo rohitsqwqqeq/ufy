@@ -61,12 +61,12 @@ Create, read, update, and delete your notes.
 
 
 
-# Signup Page 
+- Signup Page 
 ![image](https://github.com/rohitsqwqqeq/ufy/assets/146983138/81ffbe7e-e39a-46c2-a838-82f7e3cf10ec)  ![image](https://github.com/rohitsqwqqeq/ufy/assets/146983138/7ecab3e6-dc07-490d-9703-9fe2ac543184)
 
 
 
-# Login Page 
+- Login Page 
 ![image](https://github.com/rohitsqwqqeq/ufy/assets/146983138/fde298ef-a441-4b7a-944e-72cc30e4c042) 
 
 # JWT for user authentication and bcrypt for password hashing 
